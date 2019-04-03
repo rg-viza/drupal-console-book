@@ -4,6 +4,13 @@ Change directory to Drupal site:
 ```
 cd /path/to/drupal8.dev
 ```
+or
+
+```
+cd /path/to/drupal8.dev/web
+```
+
+(if exists)
 
 Execute composer require command: 
 ```
